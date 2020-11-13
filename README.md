@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Tusk617/Tusk617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there 👨‍💻
 
 Here are some ideas to get you started:
 
